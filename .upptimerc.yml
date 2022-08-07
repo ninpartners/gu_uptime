@@ -14,10 +14,10 @@ sites:
   - name: VC SITE
     url: https://vc-fw-01.fortiddns.com
     port: 10443
-  - name: Google DNS 2
+  - name: Google DNS 2x
     check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+    url: https://vc-fw-01.fortiddns.com
+    port: 10443
 
 
 assignees:
