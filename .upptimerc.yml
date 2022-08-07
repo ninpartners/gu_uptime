@@ -12,7 +12,8 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: VC SITE
-    url: https://vc-fw-01.fortiddns.com:10443
+    url: https://vc-fw-01.fortiddns.com
+    port: 10443
 
 assignees:
 - ninpartners
