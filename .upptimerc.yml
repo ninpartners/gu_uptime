@@ -37,7 +37,7 @@ sites:
     port: 10443
   - name: SITE VC - DEMO
     check: "tcp-ping"
-    url: vc-fw-01.fortiddns.com
+    url: Xvc-fw-01.fortiddns.com
     port: 10443
 
 assignees:
