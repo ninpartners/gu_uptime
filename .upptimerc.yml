@@ -19,8 +19,22 @@ sites:
     check: "tcp-ping"
     url: mf-fw-01.fortiddns.com
     port: 10443
-
-
+  - name: SITE MF
+    check: "tcp-ping"
+    url: mf-fw-01.fortiddns.com
+    port: 10443
+  - name: SITE ZO
+    check: "tcp-ping"
+    url: zo-fw-01.fortiddns.com
+    port: 10443
+  - name: SITE ST
+    check: "tcp-ping"
+    url: st-fw-01.fortiddns.com
+    port: 10443    
+  - name: SITE VC
+    check: "tcp-ping"
+    url: vc-fw-01.fortiddns.com
+    port: 10443
 
 assignees:
 - ninpartners
