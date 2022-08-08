@@ -11,12 +11,12 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: VC SITE
-    url: https://vc-fw-01.fortiddns.com port: 10443
+  - name: MF SITE
+    url: https://mf-fw-01.fortiddns.com
     port: 10443
   - name: Google DNS 2x
     check: "tcp-ping"
-    url: vc-fw-01.fortiddns.com
+    url: mf-fw-01.fortiddns.com
     port: 10443
 
 
