@@ -3,22 +3,22 @@ owner: ninpartners # Your GitHub organization or username, where this repository
 repo: gu_uptime # The name of this repository
 
 sites:
-  - name: GoogleX
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: MF SITE
-    url: 780F06107568.sn.mynetname.net
-  - name: MF SITE2
-    url: https://mf-branch.ninpartners.com  
-  - name: Google DNS 2xx
-    check: "tcp-ping"
-    url: mf-fw-01.fortiddns.com
-    port: 10443
+#  - name: GoogleX
+#    url: https://www.google.com
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
+#  - name: MF SITE
+#    url: 780F06107568.sn.mynetname.net
+#  - name: MF SITE2
+#    url: https://mf-branch.ninpartners.com  
+#  - name: Google DNS 2xx
+#    check: "tcp-ping"
+#    url: mf-fw-01.fortiddns.com
+#    port: 10443
   - name: SITE MF
     check: "tcp-ping"
     url: mf-fw-01.fortiddns.com
