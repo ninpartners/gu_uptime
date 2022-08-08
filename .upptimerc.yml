@@ -13,7 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: MF SITE
     url: 780F06107568.sn.mynetname.net
-   - name: MF SITE2
+  - name: MF SITE2
     url: https://mf-branch.ninpartners.com  
   - name: Google DNS 2xx
     check: "tcp-ping"
