@@ -12,8 +12,9 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: MF SITE
-    url: https://mf-fw-01.fortiddns.com
-    port: 10443
+    url: 780F06107568.sn.mynetname.net
+   - name: MF SITE2
+    url: https://mf-branch.ninpartners.com  
   - name: Google DNS 2x
     check: "tcp-ping"
     url: mf-fw-01.fortiddns.com
