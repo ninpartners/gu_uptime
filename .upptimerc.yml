@@ -56,6 +56,6 @@ status-website:
 #      href: https://github.com/$OWNER/$REPO
 
 i18n:
-  allSystemsOperational: All systems are operational
+  footer: This page is [open source]($REPO), powered b0y [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
