@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -73,20 +73,22 @@
   },
   {
     "name": "SITE VC - DEMO",
-    "url": "vc-fw-01.fortiddns.com",
+    "url": "Xvc-fw-01.fortiddns.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-vc-demo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 0
+    }
   }
 ]
