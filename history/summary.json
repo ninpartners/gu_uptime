@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-vc-demo",
     "status": "up",
-    "uptime": "65.30%",
-    "uptimeDay": "65.30%",
-    "uptimeWeek": "65.30%",
-    "uptimeMonth": "65.30%",
-    "uptimeYear": "65.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
-    "dailyMinutesDown": {
-      "2022-08-08": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
