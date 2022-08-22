@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 92,
-    "timeWeek": 126,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 114,
+    "timeDay": 146,
+    "timeWeek": 132,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 127,
-    "timeWeek": 130,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 124,
+    "timeWeek": 133,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 89,
-    "timeWeek": 117,
+    "timeDay": 122,
+    "timeWeek": 121,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-vc",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.52%",
+    "uptimeDay": "65.26%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 107,
-    "timeDay": 68,
-    "timeWeek": 112,
+    "timeDay": 0,
+    "timeWeek": 114,
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-08-21": 1
+      "2022-08-22": 82,
+      "2022-08-21": 418
     }
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-vc-demo",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.52%",
+    "uptimeDay": "65.34%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 102,
-    "timeDay": 100,
-    "timeWeek": 116,
+    "timeDay": 0,
+    "timeWeek": 121,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2022-08-21": 0
+      "2022-08-22": 82,
+      "2022-08-21": 417
     }
   }
 ]
