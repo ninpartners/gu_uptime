@@ -26,9 +26,9 @@
     "url": "zo-fw-01.fortiddns.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-zo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -38,6 +38,7 @@
     "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2022-11-23": 18,
       "2022-11-14": 57,
       "2022-09-16": 63
